@@ -23,9 +23,9 @@ _Descriviu el conjunt de dades utilitzat: com s'ha obtingut, quines variables hi
 
 _Sintetitzeu els resultats obtinguts sobre la qüestió principal. Comenteu cadascun dels resultats afegits._
 
-## Hipòtesis sobre la qüestió principal
+## Principals sospites sobre la qüestió principal
 
-_Especifiqueu quina és la vostra hipòtesi sobre la qüestió principal._
+_Especifiqueu quina és la vostra sospita sobre la qüestió principal._
 
 ## Qüestions secundàries
 
@@ -35,6 +35,6 @@ _(Opcional) Escriviu les qüestions a què voldríeu donar resposta._
 
 _(Opcional) Sintetitzeu els resultats obtinguts sobre aquestes qüestions. Comenteu cadascun dels resultats afegits._
 
-## Hipòtesis sobre la qüestió principal
+## Sospites sobre la qüestió principal
 
-_(Opcional) Especifiqueu quines són les vostres hipòtesis sobre les qüestions secundàries._
+_(Opcional) Especifiqueu quines són les vostres sospites sobre les qüestions secundàries._
