@@ -1,0 +1,40 @@
+---
+title: "Informe intermig"
+author: "_Nom del grup_"
+date: "20/12/2024"
+output:
+  html_document:
+    self_contained: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Qüestió principal
+
+_Escriviu la principal qüestió a què voldríeu donar resposta._
+
+## Conjunt de dades
+
+_Descriviu el conjunt de dades utilitzat: com s'ha obtingut, quines variables hi ha, quantes observacions s'han generat,..._
+
+## Resultats sobre la qüestió principal
+
+_Sintetitzeu els resultats obtinguts sobre la qüestió principal. Comenteu cadascun dels resultats afegits._
+
+## Hipòtesis sobre la qüestió principal
+
+_Especifiqueu quina és la vostra hipòtesi sobre la qüestió principal._
+
+## Qüestions secundàries
+
+_(Opcional) Escriviu les qüestions a què voldríeu donar resposta._
+
+## Resultats sobre les qüestions secundàries
+
+_(Opcional) Sintetitzeu els resultats obtinguts sobre aquestes qüestions. Comenteu cadascun dels resultats afegits._
+
+## Hipòtesis sobre la qüestió principal
+
+_(Opcional) Especifiqueu quines són les vostres hipòtesis sobre les qüestions secundàries._
